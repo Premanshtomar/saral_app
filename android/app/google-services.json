@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "847395870574",
+    "project_id": "saral-932c9",
+    "storage_bucket": "saral-932c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847395870574:android:347b13cc1b9701a5e8d37f",
+        "android_client_info": {
+          "package_name": "com.example.saral_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847395870574-if1o16o2rvui5boanj3pmic7d1rtjd3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saral_app",
+            "certificate_hash": "b78ae281712f24ad2fcd45a823d71540eb66f40e"
+          }
+        },
+        {
+          "client_id": "847395870574-83erieob5t61p69i2jcvlg4ju97249vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO0fN_yW-US4ZxfEGS1I5n69SrNiZ7vxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847395870574-83erieob5t61p69i2jcvlg4ju97249vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
